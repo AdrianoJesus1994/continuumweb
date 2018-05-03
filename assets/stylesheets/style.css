@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+@font-face{
+    font-family: 'Ample-Soft-Bold';
+    src: url('../fonts/AmpleSoft-Bold.ttf');
+}
+
+body{
+    background-color: #f6f6f6;
+}
+
+.corpo{
+    height: 100vh !important;
+    width: 100%;
+}
+
+img{
+    margin-top: 15%;
+}
+
+
+h1{
+    font-family: 'Ample-Soft-Bold', sans-serif !important;
+    color: #666;
+    font-size: 40px;
+    margin-top: -50px;
+}
+
+h6{}
